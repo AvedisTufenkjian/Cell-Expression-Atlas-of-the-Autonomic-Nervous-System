@@ -699,4 +699,5 @@ app.clientside_callback(
 server = app.server
 
 if __name__ == "__main__":
-    app.run_server(debug=False, port=80)  # switch to port 80 if needed, beofre export!!
+    app.run_server(debug=False, port=80)  # Switch to port 80
+
