@@ -21,4 +21,4 @@ Nucleus ambiguus (GSE198709, GSE202760, GSE211538)
 ## Our Review
 For more information on the ANS see our review paper at https://rdcu.be/euEhn
 
-Code used for figure generation and raw data processing can be found on our paper-specific repository at https://github.com/YTwTJ/Molecular-and-Functional-Diversity-of-the-Autonomic-Nervous-System
+Code used for publication figure generation and raw data processing can be found on our paper-specific repository at https://github.com/YTwTJ/Molecular-and-Functional-Diversity-of-the-Autonomic-Nervous-System
