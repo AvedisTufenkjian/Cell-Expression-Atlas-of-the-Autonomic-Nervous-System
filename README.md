@@ -1,5 +1,4 @@
 # Cell-Expression-Atlas-of-the-Autonomic-Nervous-System
-Cell Expression Atlas of the Autonomic Nervous System
 
 This dash app provides a platform for researchers to explore gene expression patterns in the mammalian autonomic nervous system (ANS). This “cell atlas” contains genetic data from over 70,000 cells across 8 different studies. It provides an integrated view of the autonomic nervous system facilitating future study on the cellular organization of the ANS.
 
