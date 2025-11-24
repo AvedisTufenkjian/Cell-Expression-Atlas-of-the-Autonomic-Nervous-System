@@ -10,14 +10,15 @@ The Dash app is designed to be plug-and-play, so other labs can adapt the framew
 
 ## Datasets (GEO accession ID)
 #### Sympathetic datasets 
-Superior cervical ganglion (GSE175421, GSE231766)
-Stellate ganglion (GSE231924)
+Superior cervical ganglion (GSE175421, GSE231766), 
+Stellate ganglion (GSE231924), 
 Celiac-superior mesenteric ganglion (GSE278457)
 
 #### Parasympathetic datasets
-Dorsal motor nucleus of the vagus (GSE172411)
+Dorsal motor nucleus of the vagus (GSE172411), 
 Nucleus ambiguus (GSE198709, GSE202760, GSE211538)
 
 ## Our Review
 For more information on the ANS see our review paper at https://rdcu.be/euEhn
+
 Code used for figure generation and raw data processing can be found on our paper-specific repository at https://github.com/YTwTJ/Molecular-and-Functional-Diversity-of-the-Autonomic-Nervous-System
