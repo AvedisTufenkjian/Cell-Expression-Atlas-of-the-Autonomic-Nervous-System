@@ -8,7 +8,8 @@ Various filters such as ANS division and ganglia are available for comparative a
 
 The Dash app is designed to be plug-and-play, so other labs can adapt the framework to work with their desired single-cell RNA-seq data (.h5ad format) and adata.obs metadata filters.
 
-### Sympathetic datasets (GEO accession ID)
+## Datasets (GEO accession ID)
+### Sympathetic datasets 
 Superior cervical ganglion (GSE175421, GSE231766)
 Stellate ganglion (GSE231924)
 Celiac-superior mesenteric ganglion (GSE278457)
